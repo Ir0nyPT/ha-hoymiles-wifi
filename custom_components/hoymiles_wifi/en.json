@@ -399,7 +399,7 @@
         },
         "peak_meter_power": {
           "name": "Peak Meter Power",
-          "description": "The peak meter power to set (in %)."
+          "description": "The peak meter power to set (in Watts)."
         },
         "time_settings": {
           "name": "Time Settings",
