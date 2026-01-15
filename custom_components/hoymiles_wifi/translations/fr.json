@@ -442,7 +442,7 @@
         },
         "peak_soc": {
           "name": "SOC de pointe",
-          "description": "L’état de charge (SOC) de pointe à définir (en %)."
+          "description": "L’état de charge (SOC) de pointe à définir (en W)."
         },
         "peak_meter_power": {
           "name": "Puissance de pointe du compteur",
@@ -474,3 +474,4 @@
     }
   }
 }
+
